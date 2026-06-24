@@ -1,6 +1,6 @@
-# CONVOTIS Creative Template Library
+CONVOTIS Creative Template Library
 
-## Purpose
+Purpose
 
 This document defines the preferred creative templates used within the CONVOTIS AI Campaign Engine.
 
@@ -10,41 +10,57 @@ Insights create performance.
 
 The purpose of this library is to:
 
-- Standardize creative development
-- Improve creative quality
-- Accelerate campaign execution
-- Support AI-generated content creation
-- Support Canva and video production
-- Ensure consistency across channels
+* Standardize creative development
+* Improve creative quality
+* Accelerate campaign execution
+* Support AI-generated content creation
+* Support Canva and video production
+* Ensure consistency across channels
 
 Templates should always be adapted to:
 
-- Target audience
-- Business challenge
-- Campaign objective
-- Industry context
-- Current market developments
+* Target Audience
+* Business Challenge
+* Campaign Objective
+* Industry Context
+* Current Market Developments
 
 Templates are frameworks, not copy-and-paste assets.
 
----
+⸻
 
-# Core Principle
+Related Frameworks
+
+This library should be used together with:
+
+* Buyer Journey Framework
+* Campaign Strategy Framework
+* Offer Library
+* Target Segment Library
+* Creative Style Guide
+
+Templates provide creative structures.
+
+The supporting frameworks provide context, audience intelligence and campaign direction.
+
+⸻
+
+Core Principle
 
 The best CONVOTIS creatives are based on situations the audience already knows.
 
 The audience should think:
 
-- "That's us."
-- "We've experienced this."
-- "I've seen this happen."
-- "I never thought about it that way."
+* That’s us.
+* We’ve experienced this.
+* I’ve seen this happen.
+* I never looked at it that way before.
 
 Relatability is more important than cleverness.
 
----
+⸻
 
-# Hook Priority
+Hook Priority
 
 When creating content, prioritize:
 
@@ -55,24 +71,24 @@ When creating content, prioritize:
 5. Expert Insight
 6. Direct Statement
 
----
+⸻
 
-# Awareness Templates
+Awareness Templates
 
-## Template 01 – Everyday Analogy
+Template 01 – Everyday Analogy
 
-### Purpose
+Purpose
 
 Create immediate recognition through familiar situations.
 
-### Best Formats
+Best Formats
 
-- Single Image
-- Document Ad
-- TLA
-- Video
+* Single Image Ads
+* Document Ads
+* Videos
+* Awareness Content
 
-### Structure
+Structure
 
 Familiar Situation
 
@@ -84,51 +100,51 @@ Business Parallel
 
 Insight
 
-### Example
+Example
 
-For the company car there is insurance.
+Production machines receive regular maintenance.
 
-For the biggest business risk often not.
+Critical business systems deserve the same level of attention.
 
----
+⸻
 
-### Example
+Example
 
-Everyone checks the fire extinguisher.
+A supplier is evaluated before signing a contract.
 
-Hardly anyone checks access rights.
+Information security is increasingly part of that evaluation.
 
----
+⸻
 
-### Example
+Example
 
-Machines get regular maintenance.
+Most organizations would not operate without an inventory of physical assets.
 
-Business-critical systems often don't.
+Digital assets deserve the same visibility.
 
----
+⸻
 
-### Why It Works
+Why It Works
 
 The audience already understands the first situation.
 
-The insight becomes obvious without explanation.
+The insight becomes easier to understand through a familiar comparison.
 
----
+⸻
 
-## Template 02 – Business Reality
+Template 02 – Business Reality
 
-### Purpose
+Purpose
 
-Highlight an uncomfortable but realistic business situation.
+Highlight a realistic business situation the audience can identify with.
 
-### Best Formats
+Best Formats
 
-- Single Image
-- TLA
-- LinkedIn Post
+* Single Image Ads
+* LinkedIn Posts
+* Awareness Content
 
-### Structure
+Structure
 
 Observation
 
@@ -136,29 +152,27 @@ Observation
 
 Business Consequence
 
-### Example
+Example
 
 The project was approved.
 
-The security requirements weren't.
+The supplier assessment introduced new requirements that nobody had planned for.
 
----
+⸻
 
-### Example
+Example
 
-The deal was almost closed.
+The cloud migration started on schedule.
 
-Then came the supplier assessment.
+Understanding application dependencies became the most important task.
 
----
+⸻
 
-### Example
+Example
 
-IT only becomes visible when something stops working.
+IT infrastructure often receives attention when business operations become affected.
 
----
-
-### Why It Works
+Why It Works
 
 Feels realistic.
 
@@ -166,75 +180,75 @@ Feels familiar.
 
 Feels relevant.
 
----
+⸻
 
-## Template 03 – Industry Observation
+Template 03 – Industry Observation
 
-### Purpose
+Purpose
 
 Connect market developments with audience relevance.
 
-### Best Formats
+Best Formats
 
-- TLA
-- Single Image
-- Document Ad
-- Video
+* Single Image Ads
+* Document Ads
+* Videos
+* Awareness Content
 
-### Structure
+Structure
 
-Market Change
+Market Development
 
 ↓
 
 Audience Impact
 
-### Example
+Example
 
-A few years ago nobody asked about information security.
+Customer security questionnaires are becoming more detailed across many industries.
 
-Today it's part of the procurement process.
+Organizations increasingly need structured answers and supporting evidence.
 
----
+⸻
 
-### Example
+Example
 
-Customers are asking different questions than they did three years ago.
+VMware licensing discussions continue to influence infrastructure strategies.
 
----
+Many organizations are evaluating alternative operating models.
 
-### Example
+⸻
 
-Security is becoming a business requirement.
+Example
 
-Not just an IT topic.
+Security requirements increasingly influence purchasing decisions, supplier relationships and compliance initiatives.
 
----
+Why It Works
 
-### Why It Works
+Creates relevance.
 
-Creates urgency without fear.
+Connects trends with business realities.
 
-Connects trends with reality.
+Provides context for further discussion.
 
----
+⸻
 
-# Consideration Templates
+Consideration Templates
 
-## Template 04 – Customer Situation
+Template 04 – Customer Situation
 
-### Purpose
+Purpose
 
-Show a real-world scenario the audience can identify with.
+Show a realistic situation the audience can identify with.
 
-### Best Formats
+Best Formats
 
-- Document Ad
-- Customer Story
-- Video
-- Webinar
+* Document Ads
+* Customer Stories
+* Videos
+* Webinars
 
-### Structure
+Structure
 
 Situation
 
@@ -246,56 +260,56 @@ Challenge
 
 Learning
 
-### Example
+Example
 
-The customer wanted proof of information security.
+A manufacturing company received increasing security requirements from customers.
 
-Nobody knew where to start.
+The challenge was not responding to a single request.
 
----
+The challenge was creating a repeatable process.
 
-### Example
+⸻
 
-The security incident was resolved.
+Example
 
-The uncertainty remained.
+An organization wanted to prepare for ISO 27001.
 
----
+The first step was gaining a clear understanding of the current situation.
 
-### Example
+⸻
 
-The company wanted ISO 27001.
+Example
 
-The first challenge was understanding the current situation.
+A cloud transformation initiative started with technology discussions.
 
----
+Business dependencies became one of the most important planning factors.
 
-### Why It Works
+⸻
 
-People relate to stories.
+Why It Works
 
-Stories create context.
+People relate to situations.
+
+Situations create context.
 
 Context creates relevance.
 
----
+⸻
 
-## Template 05 – Framework
+Template 05 – Framework
 
-### Purpose
+Purpose
 
-Simplify complexity.
+Simplify complexity and provide orientation.
 
-Provide orientation.
+Best Formats
 
-### Best Formats
+* Document Ads
+* Webinars
+* Videos
+* Landing Pages
 
-- Document Ad
-- Webinar
-- Video
-- Landing Page
-
-### Structure
+Structure
 
 Question
 
@@ -307,62 +321,54 @@ Framework
 
 Recommendation
 
-### Example
+Example
 
-How do you know if you're prepared for NIS2?
+How prepared is your organization for NIS2?
 
-Five areas determine the answer.
+Five areas provide a useful starting point for evaluation.
 
----
+⸻
 
-### Example
+Example
 
-Where should an ISMS project actually start?
+Where should an ISMS initiative begin?
 
-Start with visibility.
+Visibility, priorities and ownership provide a practical foundation.
 
-Then priorities.
+⸻
 
-Then implementation.
+Example
 
----
+How can cloud transformation risks be reduced?
 
-### Example
+A structured assessment often provides the necessary clarity.
 
-How do you reduce security risk?
+⸻
 
-Understand.
-
-Prioritize.
-
-Act.
-
----
-
-### Why It Works
+Why It Works
 
 Creates clarity.
 
-Builds authority.
+Provides orientation.
 
-Reduces complexity.
+Supports decision making.
 
----
+⸻
 
-## Template 06 – Expert Perspective
+Template 06 – Expert Perspective
 
-### Purpose
+Purpose
 
 Provide a practical expert recommendation.
 
-### Best Formats
+Best Formats
 
-- Video
-- TLA
-- LinkedIn
-- Webinar
+* Videos
+* LinkedIn
+* Webinars
+* Awareness Content
 
-### Structure
+Structure
 
 Observation
 
@@ -374,61 +380,167 @@ Expert Insight
 
 Recommendation
 
-### Example
+Example
 
-The biggest challenge is often not the technical issue.
+Many security initiatives start with technology discussions.
 
-It's the lack of visibility.
+Understanding the current situation often creates the foundation for better decisions.
 
----
+⸻
 
-### Example
+Example
 
-Most organizations focus on protection.
+Organizations investing in cloud modernization frequently benefit from understanding operational dependencies before selecting technologies.
 
-Few focus on preparedness.
+⸻
 
----
+Example
 
-### Example
+Implementation becomes easier when organizations have a clear understanding of risks, priorities and dependencies.
 
-The first question shouldn't be:
+⸻
 
-How secure are we?
-
-It should be:
-
-Do we actually know?
-
----
-
-### Why It Works
+Why It Works
 
 Feels consultative.
 
 Builds trust.
 
+Demonstrates expertise.
+
+⸻
+
+Template 07 – Alex Question
+
+Purpose
+
+Use a question to surface expert knowledge through the Digital Media Brand.
+
+Best Formats
+
+* Alex Editorial Ads
+* Videos
+* Industry Commentary
+* LinkedIn
+
+Structure
+
+Question
+
+↓
+
+Expert Perspective
+
+↓
+
+Business Insight
+
+Example
+
+Alex asked our cloud team:
+
+What is the most common mistake organizations make before a VMware migration?
+
+↓
+
+Many projects focus on technology decisions first.
+
+Successful migrations usually begin with understanding operational dependencies and business requirements.
+
+⸻
+
+Example
+
+Alex asked our cybersecurity team:
+
+What makes NIS2 preparation difficult for many organizations?
+
+↓
+
+The challenge often comes from coordinating people, processes and responsibilities across different departments.
+
+⸻
+
+Why It Works
+
+Creates curiosity.
+
+Makes expertise accessible.
+
+Supports the editorial positioning of Alex.
+
+⸻
+
+Template 08 – Alex Briefing
+
+Purpose
+
+Summarize relevant developments for a specific audience.
+
+Best Formats
+
+* LinkedIn
+* Video
+* Document Ad
+* Industry Briefing
+
+Structure
+
+Topic
+
+↓
+
+Key Developments
+
+↓
+
+Audience Relevance
+
+Example
+
+Three developments manufacturing companies should watch this quarter:
+
+* Customer security requirements continue to increase
+* NIS2 preparation activities are accelerating
+* Supplier risk management is becoming more visible
+
+⸻
+
+Example
+
+Three developments cloud leaders should monitor:
+
+* VMware migration planning
+* Sovereign cloud requirements
+* Cost optimization initiatives
+
+⸻
+
+Why It Works
+
 Positions expertise.
 
----
+Creates relevance.
 
-# Decision Templates
+Supports awareness campaigns.
 
-## Template 07 – Readiness Check
+⸻
 
-### Purpose
+Decision Templates
 
-Create awareness of unknown risks.
+Template 09 – Readiness Check
 
-Introduce the need for assessment.
+Purpose
 
-### Best Formats
+Create awareness of unknown risks and introduce the need for assessment.
 
-- Landing Page
-- Document Ad
-- LinkedIn
+Best Formats
 
-### Structure
+* Landing Pages
+* Document Ads
+* LinkedIn Ads
+
+Structure
 
 Current Situation
 
@@ -440,50 +552,54 @@ Question
 
 Recommended Next Step
 
-### Example
+Example
 
-You believe you're well prepared.
+Your organization has security controls in place.
 
-When was the last time you checked?
+How confident are you in their effectiveness today?
 
----
+⸻
 
-### Example
+Example
 
-You have security measures in place.
+Cloud transformation is already on the roadmap.
 
-Do you know where the biggest risks are?
+How clear is the current starting point?
 
----
+⸻
 
-### Example
+Example
 
-The biggest risk is often not knowing where you stand.
+Customer security requirements are increasing.
 
----
+How prepared is your organization to respond consistently?
 
-### Why It Works
+⸻
+
+Why It Works
 
 Creates self-reflection.
 
-Creates demand naturally.
+Encourages evaluation.
 
----
+Introduces the next logical step.
 
-## Template 08 – Expert Recommendation
+⸻
 
-### Purpose
+Template 10 – Expert Recommendation
 
-Recommend a logical next step.
+Purpose
 
-### Best Formats
+Recommend a practical next step based on a business challenge.
 
-- Video
-- Webinar
-- TLA
-- LinkedIn
+Best Formats
 
-### Structure
+* Videos
+* Webinars
+* LinkedIn
+* Landing Pages
+
+Structure
 
 Challenge
 
@@ -495,45 +611,39 @@ Expert Recommendation
 
 Next Step
 
-### Example
+Example
 
-Before investing in more security tools,
+Organizations preparing for ISO 27001 often benefit from understanding their current maturity before defining implementation priorities.
 
-understand your current situation first.
+⸻
 
----
+Example
 
-### Example
+Cloud modernization initiatives become easier to manage when dependencies and operational requirements are clearly documented.
 
-Before starting an ISMS project,
+⸻
 
-identify the biggest gaps first.
+Example
 
----
+Security investments become more effective when organizations have visibility into their highest-priority risks.
 
-### Example
+⸻
 
-Before making security decisions,
-
-create visibility.
-
----
-
-### Why It Works
+Why It Works
 
 Feels advisory.
 
-Not promotional.
+Supports trust.
 
-Supports conversion without pressure.
+Creates progression without pressure.
 
----
+⸻
 
-# Video-Specific Templates
+Video-Specific Templates
 
-## Expert Q&A
+Expert Q&A
 
-### Structure
+Structure
 
 Question
 
@@ -545,132 +655,191 @@ Expert Answer
 
 Recommendation
 
-### Example
+Example
 
 Question:
 
-A customer is asking for proof of information security.
+What should organizations do when customers request evidence of information security?
 
-What should we do first?
+⸻
 
----
-
-### Example
+Example
 
 Question:
 
-How do companies know whether they are ready for NIS2?
+How can organizations evaluate their NIS2 readiness?
 
----
+⸻
 
-### Example
+Example
 
 Question:
 
-What is the biggest mistake organizations make after a security incident?
+What should be reviewed before starting a VMware migration?
 
----
+⸻
 
-## Topic Sources
+Alex Expert Briefing
+
+Structure
+
+Topic
+
+↓
+
+Alex Introduction
+
+↓
+
+Expert Insight
+
+↓
+
+Business Recommendation
+
+Example
+
+Topic:
+
+Three developments shaping cybersecurity conversations this quarter.
+
+↓
+
+Alex introduces the topic.
+
+↓
+
+Expert insight is presented.
+
+↓
+
+Business recommendation is provided.
+
+⸻
+
+Topic Sources
 
 Use:
 
-- Industry News
-- Regulatory Changes
-- Security Incidents
-- Political Developments
-- Customer Conversations
-- Sales Conversations
-- Webinar Questions
-- Current Events
+* Industry News
+* Regulatory Changes
+* Security Incidents
+* Political Developments
+* Customer Conversations
+* Sales Conversations
+* Webinar Questions
+* Market Developments
+* Expert Observations
 
-Avoid generic product questions.
+Avoid:
 
----
+* Generic Product Explanations
+* Feature-Only Discussions
+* Vendor-Centric Topics
 
-# YouTube Shorts Templates
+⸻
 
-## Short Expert Insight
+Template Selection Guide
 
-### Structure
+Awareness
 
-Observation
+Preferred Communicator:
 
-↓
-
-Insight
-
-↓
-
-Recommendation
-
-### Example
-
-Most companies don't struggle with implementation.
-
-They struggle with visibility.
-
----
-
-## Business Reality
-
-### Structure
-
-Business Situation
-
-↓
-
-Consequence
-
-↓
-
-Recommendation
-
-### Example
-
-Customers are asking more security questions.
-
-Most companies are still preparing answers.
-
----
-
-# Template Selection Guide
-
-## Awareness
+* Alex (optional)
+* Subject Matter Expert
 
 Preferred Templates:
 
-- Everyday Analogy
-- Business Reality
-- Industry Observation
+* Everyday Analogy
+* Business Reality
+* Industry Observation
+* Alex Question
+* Alex Briefing
 
----
+Primary Objective:
 
-## Consideration
+Create relevance and generate interest.
+
+⸻
+
+Consideration
+
+Preferred Communicator:
+
+* Subject Matter Expert
+* Alex (supporting role)
 
 Preferred Templates:
 
-- Customer Situation
-- Framework
-- Expert Perspective
+* Customer Situation
+* Framework
+* Expert Perspective
 
----
+Primary Objective:
 
-## Decision
+Build trust and support evaluation.
+
+⸻
+
+Decision
+
+Preferred Communicator:
+
+* Subject Matter Expert
 
 Preferred Templates:
 
-- Readiness Check
-- Expert Recommendation
+* Readiness Check
+* Expert Recommendation
 
----
+Primary Objective:
 
-# Final Principle
+Support decision making and commercial engagement.
 
-Templates should feel like observations.
+⸻
 
-Not advertisements.
+Template Usage Rules
 
-The best creative does not sound like marketing.
+Templates provide creative structures.
 
-It sounds like something the audience would say themselves.
+Templates do not replace:
+
+* Audience Intelligence
+* Campaign Strategy
+* Expert Knowledge
+* Market Context
+
+Every template should be adapted to:
+
+* Target Audience
+* Industry
+* Business Challenge
+* Buyer Journey Stage
+* Offer Strategy
+
+The same template may produce very different outputs depending on the context.
+
+⸻
+
+Alex Usage Rules
+
+If Alex is used:
+
+* Alex communicates expertise
+* Experts provide expertise
+* Alex may introduce questions, observations and perspectives
+* Alex should not replace subject matter experts during consideration and decision-stage conversations
+
+Alex is most effective when creating awareness, introducing topics and making expertise more accessible.
+
+⸻
+
+Final Principle
+
+Templates should feel like observations, experiences and business realities.
+
+The most effective creative assets help the audience recognize a situation, understand its relevance and explore the next logical step.
+
+Good templates create structure.
+
+Relevant insights create performance.
