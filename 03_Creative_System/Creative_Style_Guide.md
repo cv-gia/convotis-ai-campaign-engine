@@ -1,103 +1,91 @@
-# CONVOTIS Creative Style Guide
+CONVOTIS Creative Style Guide
 
-## Purpose
+Purpose
 
 This document defines the creative principles for all content created within the CONVOTIS AI Campaign Engine.
 
 The purpose is to ensure consistency across:
 
-- LinkedIn Ads
-- Thought Leadership Ads (TLA)
-- Organic Social Content
-- YouTube Content
-- Landing Pages
-- Videos
-- Document Ads
-- Sales Enablement Content
+* LinkedIn Ads
+* YouTube Content
+* Landing Pages
+* Videos
+* Document Ads
+* Sales Enablement Content
+
+Optional:
+
+* Organic Social Content
 
 This guide applies to all future AI-generated creative concepts, creative briefs, Canva briefs, image prompts and video scripts.
 
----
+⸻
 
-# Core Philosophy
+Creative Philosophy
 
-## Primary Principle
+Primary Principle
 
-The objective is not to create creatives.
+The objective is to create relevant insights that earn attention and support business conversations.
 
-The objective is to create relevant insights that earn attention.
+⸻
 
----
+Insight First
 
-## Insight First
+The creative should communicate an insight before introducing a solution.
 
-The creative should communicate an insight before promoting a solution.
+The audience should recognize relevance, understand the business context and develop curiosity to learn more.
 
-The audience should first think:
+⸻
 
-> "That's interesting."
+Perspective Before Opinion
 
-before thinking:
+Content should be grounded in observable business realities, industry developments or expert knowledge.
 
-> "Who created this?"
+Perspectives are encouraged.
 
----
+Personal opinions without a clear business foundation should be avoided.
 
-## Brand Second
+⸻
 
-Brand visibility is important.
-
-However, the insight should always be more prominent than the brand.
-
-The audience should engage with the message before noticing CONVOTIS.
-
----
-
-## Relevance Over Design
+Relevance Over Design
 
 A strong idea is more important than visual complexity.
 
-A creative with a compelling insight should outperform a beautiful creative with a weak message.
+Creative quality is determined by relevance, clarity and usefulness rather than visual sophistication.
 
----
+⸻
 
-## Authenticity Over Perfection
+Authenticity Over Perfection
 
-Content should feel real.
+Content should feel real, credible and trustworthy.
 
-Not polished.
+Authenticity builds trust and improves engagement.
 
-Not staged.
+⸻
 
-Not overly produced.
-
-Authenticity builds trust.
-
----
-
-## Educational Before Promotional
+Educational Before Promotional
 
 Content should create value before asking for action.
 
-The audience should learn something useful even if they never become a customer.
+The audience should gain useful insights regardless of whether they become a customer.
 
----
+⸻
 
-# Tone Of Voice
+Tone Of Voice
 
-## Preferred Tone
+Preferred Tone
 
-- Clear
-- Direct
-- Professional
-- Helpful
-- Expert-Led
-- Human
-- Easy To Understand
+* Clear
+* Direct
+* Professional
+* Helpful
+* Expert-Led
+* Human
+* Easy To Understand
 
----
+⸻
 
-## Challenger Mindset
+Challenger Mindset
 
 The content may challenge assumptions.
 
@@ -105,48 +93,51 @@ The content may question conventional thinking.
 
 The content may offer a different perspective.
 
-However:
-
-- Never sensationalize
-- Never exaggerate
-- Never provoke for attention only
-
----
-
-## Communication Style
-
-Preferred:
-
-- Simple language
-- Business language
-- Real-world examples
-- Practical insights
+Constructive tension and thoughtful provocation are encouraged when they help the audience reconsider a business reality.
 
 Avoid:
 
-- Corporate jargon
-- Buzzwords
-- Marketing language
-- Technical complexity without context
+* Sensationalism
+* Fear-Based Messaging
+* Artificial Controversy
+* Provocation Without Substance
 
----
+⸻
 
-# Content Philosophy
+Communication Style
 
-## Business Challenges First
+Preferred:
 
-Content should start with:
+* Simple language
+* Business language
+* Real-world examples
+* Practical insights
 
-- Problems
-- Risks
-- Challenges
-- Industry developments
+Avoid:
 
-Not product features.
+* Corporate jargon
+* Buzzwords
+* Marketing language
+* Technical complexity without context
 
----
+⸻
 
-## Outcomes Before Features
+Content Philosophy
+
+Business Challenges First
+
+Content should focus on:
+
+* Business Challenges
+* Risks
+* Opportunities
+* Industry Developments
+
+Solutions and capabilities should be introduced in the context of those challenges.
+
+⸻
+
+Outcomes Before Features
 
 Always communicate:
 
@@ -164,309 +155,439 @@ Approach
 
 Technology
 
----
+⸻
 
-## Expertise Builds Trust
+Expertise Builds Trust
 
-The best content demonstrates expertise.
+Expertise should be visible through practical observations, business understanding and real-world experience.
 
-Not promotion.
+Content should help the audience understand a situation, evaluate options and make better decisions.
 
-Not branding.
+⸻
 
-Not product marketing.
+Visual Design System
 
----
+Typography
 
-# Creative Hierarchy
+Primary Font
 
-## Priority 1
+Barlow
 
-Document Ads
+⸻
 
----
+Headline Font
 
-## Priority 2
+Barlow Semibold
 
-Single Image Ads
+⸻
 
----
+Body Copy
 
-## Priority 3
+Barlow Regular
 
-Video Ads
+⸻
 
----
+Emphasis
 
-## Priority 4
+Barlow Bold
 
-Framework Visualizations
+⸻
 
-Use only when they genuinely improve understanding.
+Use a clean and readable hierarchy.
 
----
+Avoid decorative fonts.
 
-# Visual Hierarchy
+⸻
 
-## Priority 1
+Color System
 
-Text
+Primary Colors
 
----
+CV Blue
 
-## Priority 2
+#002A72
 
-Simple Supporting Visuals
+CV Gray
 
----
+#F2EEEA
 
-## Priority 3
+⸻
 
-Authentic Photography
+Secondary Colors
 
----
+CV Violet
 
-## Priority 4
+#473E7D
 
-Video
+CV Deep Teal
 
----
+#005870
 
-## Priority 5
+⸻
 
-Framework Graphics
+Accent Colors
 
----
+CV Red
 
-# Document Ad Principles
+#9F0737
 
-## Preferred Use Cases
+CV Green
 
-- Frameworks
-- Industry Insights
-- Assessments
-- Customer Stories
-- Transformation Stories
-- Business Cases
-- Maturity Models
-- Compliance Topics
+#039272
 
----
+⸻
 
-## Typical Structure
+Icon Usage
 
-### Page 1
+Icons should be:
 
-Hook
+* Minimalistic
+* Functional
+* Consistent
+* Single Color
 
----
+Avoid:
 
-### Page 2
+* Complex Icons
+* Multi-Color Icons
+* Decorative Icons
 
-Problem
+Use icons only when they improve understanding.
 
----
+⸻
 
-### Page 3
+Photography Principles
 
-Insight
-
----
-
-### Page 4
-
-Framework
-
----
-
-### Page 5
-
-Recommendation
-
----
-
-### Page 6
-
-Next Step
-
----
-
-## Design Principles
-
-- Minimalistic
-- Easy to consume
-- One message per page
-- Strong headlines
-- High readability
-
----
-
-# Single Image Principles
-
-## Preferred Use Cases
-
-- Thought Leadership
-- Reframing
-- Industry Observations
-- Provocative Insights
-- Trend Commentary
-
----
-
-## Preferred Structure
-
-Headline
-
-↓
-
-Supporting Statement
-
-↓
-
-Brand
-
----
-
-## Goal
-
-Create curiosity.
-
-Not immediate conversion.
-
----
-
-# Framework Visualizations
-
-## Purpose
-
-Support understanding.
-
-Not decoration.
-
----
-
-## Recommended Types
-
-- Before vs After
-- Risk vs Impact
-- Maturity Models
-- Process Flows
-- Transformation Journeys
-- Frameworks
-
----
-
-## Avoid
-
-- Complex Infographics
-- Marketing Graphics
-- Decorative Diagrams
-- Unnecessary Visual Complexity
-
----
-
-# Photography Guidelines
-
-## Core Principle
+Core Principle
 
 Authenticity beats perfection.
 
----
+⸻
 
-## Preferred Situations
+Preferred Situations
 
-- Workshops
-- Whiteboard Sessions
-- Team Collaboration
-- Expert Discussions
-- Customer Meetings
-- Conferences
-- Speaking Engagements
-- Working Sessions
+* Workshops
+* Whiteboard Sessions
+* Team Collaboration
+* Expert Discussions
+* Customer Meetings
+* Conferences
+* Speaking Engagements
+* Working Sessions
 
----
+⸻
 
-## Avoid
+Preferred Style
 
-- Studio Portraits
-- Corporate Hero Shots
-- Crossed Arms
-- Looking Directly Into The Camera
-- Artificial Smiling
-- Generic Business Photography
+Use:
 
----
+* Natural Lighting
+* Documentary-Style Photography
+* Real Environments
+* Authentic Interactions
+* Practical Business Situations
 
-# AI Image Generation Guidelines
+⸻
 
-## Allowed
+Avoid
 
-AI-generated images are encouraged.
+* Studio Portraits
+* Corporate Hero Shots
+* Crossed Arms
+* Looking Directly Into The Camera
+* Artificial Smiling
+* Generic Business Photography
+* Stock Photo Aesthetics
+* Unrealistic Office Environments
+* Excessive Visual Effects
 
----
+⸻
 
-## Preferred Workflow
 
-Selected Contributor
+Optional: Digital Media Brand (Alex)
+
+This section only applies if the Digital Media Brand (Alex) is selected as part of the campaign strategy.
+
+Campaigns may be executed with or without the Digital Media Brand.
+
+⸻
+
+Purpose
+
+Alex is a communication layer for CONVOTIS expertise.
+
+Alex helps make expertise visible, understandable and scalable.
+
+Subject matter experts provide the expertise.
+
+Alex communicates the expertise.
+
+CONVOTIS remains the brand.
+
+⸻
+
+Editorial Mindset
+
+Alex is not advertising.
+
+Alex is a publication with personality.
+
+If Alex is used, the content should feel editorial rather than promotional.
+
+Alex communicates:
+
+* Industry Observations
+* Business Realities
+* Market Developments
+* Expert Perspectives
+* Practical Insights
+
+The audience should perceive Alex as a trusted industry publication rather than a marketing asset.
+
+⸻
+
+What Alex Is
+
+* Digital Media Brand
+* Industry Communicator
+* Moderator Of Expertise
+* Curator Of Insights
+* Communication Layer For CONVOTIS Knowledge
+
+⸻
+
+What Alex Is Not
+
+* Influencer
+* Personal Brand
+* Thought Leader
+* Sales Representative
+* Consultant
+* Subject Matter Expert
+* Product Evangelist
+
+⸻
+
+Expertise Model
+
+Subject Matter Expert
 
 ↓
 
-Reference Image
+Alex
 
 ↓
 
-Authentic Scenario
+Audience
+
+Alex may communicate perspectives.
+
+Those perspectives must always be grounded in expert knowledge provided by CONVOTIS specialists.
+
+⸻
+
+Visual Identity
+
+If Alex is used, Alex should remain visually consistent across campaigns.
+
+Alex should be recognizable as the same digital media personality across:
+
+* Images
+* Videos
+* Industry Commentary
+* Educational Content
+* Campaign Assets
+
+Minor variations are acceptable.
+
+The overall appearance, visual identity and recognizability should remain consistent.
+
+⸻
+
+Preferred Visual Situations
+
+* Manufacturing Environments
+* Office Environments
+* Workshop Situations
+* Expert Conversations
+* Observation Moments
+* Industry Events
+* Conference Environments
+
+Alex should feel part of the environment.
+
+The environment should support the business topic.
+
+⸻
+
+Avoid
+
+* Influencer Aesthetics
+* Creator-Style Content
+* Personal Branding Photography
+* Luxury Lifestyle Imagery
+* Artificial Posing
+* Excessive Focus On Alex
+
+The expertise and business topic should remain the primary focus.
+
+⸻
+
+LinkedIn Creative Rules
+
+Single Image Ads
+
+Style A – Insight Ads
+
+Preferred Structure:
+
+Visual Text
 
 ↓
 
-Image Generation
+Supporting Visual
 
----
+↓
 
-## Objective
+Ad Copy
 
-Generate believable business situations.
+Use Cases:
 
-Not advertising photography.
+* Industry Observations
+* Business Challenges
+* Market Developments
+* Awareness Campaigns
 
----
+Output Requirements:
 
-## Prompt Priorities
+* Visual Text Option A
+* Visual Text Option B
+* Supporting Copy
+* Canva Creation Guidance
+* AI Creative Prompt
 
-- Authenticity
-- Realism
-- Context
-- Natural Body Language
-- Natural Environments
+⸻
 
----
+Style B – Alex Editorial Ads
 
-## Avoid
+Preferred Structure:
 
-- Obvious AI Aesthetics
-- Unrealistic Scenes
-- Over-Polished Results
-- Stock Image Appearance
+Alex Visual
 
----
+↓
 
-# Video Strategy
+Editorial Ad Copy
 
-## Core Principle
+Use Cases:
 
-The objective is not to create videos.
+* Industry Commentary
+* Expert Perspectives
+* Business Observations
+* Educational Content
 
-The objective is to answer relevant questions.
+The insight should primarily be communicated through the ad copy rather than through text on the image.
 
----
+The creative should feel like editorial content rather than advertising.
 
-# Preferred Video Format
+Output Requirements:
 
-Expert Q&A Videos
+* Visual Concept
+* Editorial Ad Copy
+* Canva Creation Guidance
+* AI Creative Prompt
 
----
+⸻
 
-## Video Structure
+Document Ads
+
+Preferred Use Cases
+
+* Frameworks
+* Industry Insights
+* Assessments
+* Customer Stories
+* Transformation Stories
+* Business Cases
+* Maturity Models
+* Compliance Topics
+
+⸻
+
+Typical Structure
+
+Page 1
+
+Hook
+
+⸻
+
+Page 2
+
+Business Challenge
+
+⸻
+
+Page 3
+
+Observation
+
+⸻
+
+Page 4
+
+Insight
+
+⸻
+
+Page 5
+
+Recommendation
+
+⸻
+
+Page 6
+
+Next Step
+
+⸻
+
+Design Principles
+
+* One Message Per Page
+* Strong Headlines
+* High Readability
+* Fast Consumption
+* Minimal Visual Complexity
+
+Output Requirements:
+
+* Slide Structure
+* Slide Copy
+* Canva Creation Guidance
+
+⸻
+
+Video Content Rules
+
+Preferred Video Formats
+
+* Expert Q&A
+* Industry Commentary
+* Market Updates
+* Business Observations
+* Educational Content
+
+⸻
+
+Video Ownership
+
+Webinars, Workshops, Assessments and Customer Meetings should be led by real experts.
+
+Industry Commentary, Educational Videos and Awareness Content may be communicated by Alex.
+
+⸻
+
+Video Structure
 
 Target Audience Challenge
 
@@ -476,340 +597,175 @@ Relevant Question
 
 ↓
 
-Expert Answer
+Observation Or Perspective
+
+↓
+
+Expert Insight
 
 ↓
 
 Soft CTA
 
----
+⸻
 
-## Preferred Video Length
+Preferred Video Length
 
 30–90 Seconds
 
----
+⸻
 
-## Long Form Content
-
-Use only when appropriate.
-
-Examples:
-
-- Webinars
-- Workshops
-- Customer Stories
-- Expert Interviews
-
----
-
-# Video Topic Selection
-
-## Preferred Sources
-
-### Industry News
-
-### Security Incidents
-
-### Political Developments
-
-### Regulatory Changes
-
-### Market Developments
-
-### Customer Conversations
-
-### Sales Conversations
-
-### Webinar Questions
-
-### Frequently Asked Questions
-
----
-
-## Avoid
-
-Generic Product Questions
-
-Examples:
-
-❌ What is NIS2?
-
-❌ What is ISO 27001?
-
-❌ What is Kubernetes?
-
----
-
-## Preferred Questions
-
-Examples:
-
-Why do many manufacturers underestimate NIS2?
-
-What should companies do after a security incident?
-
-When is an ISMS project too early?
-
-Why are customers increasingly demanding security evidence?
-
----
-
-# AI Video Generation
-
-## Preferred Approach
-
-Videos should be designed for AI production whenever possible.
-
----
-
-## Output Requirements
+Output Requirements
 
 For every video concept provide:
 
-- Question
-- Expert
-- Answer
-- CTA
-- Repurposing Opportunities
+* Video Concept
+* Speaker Recommendation
+* Key Talking Points
+* CTA
+* Repurposing Opportunities
 
----
+⸻
 
-## Objective
+AI Creative Production
 
-Enable scalable content production.
+Preferred Workflow
 
----
-
-# Content Reuse Strategy
-
-## Core Principle
-
-One content asset should create multiple distribution opportunities.
-
----
-
-## Examples
-
-Webinar
+Canva
 
 ↓
 
-Video Snippets
+Human Review
 
 ↓
 
-LinkedIn Posts
+Publication
+
+⸻
+
+Alternative Workflow
+
+AI Prompt
 
 ↓
 
-YouTube Shorts
+Image Generation
 
 ↓
 
-Landing Page Assets
+Human Review
 
 ↓
 
-Email Content
+Publication
 
-↓
+⸻
 
-Sales Content
+AI Prompt Requirements
 
----
+For every visual asset provide:
 
-## Repurposing Priority
+* Canva Creation Guidance
+* AI Prompt
+* Composition Notes
 
-### Existing Content
+⸻
 
-### Existing Recordings
+AI Image Generation Principles
 
-### AI Repurposed Content
+The objective is to generate believable business situations.
 
-### New AI Content
+Not advertising photography.
 
-### New Manual Content
+⸻
 
----
+Preferred Prompt Priorities
 
-# YouTube Strategy
+* Authenticity
+* Realism
+* Context
+* Natural Body Language
+* Natural Environments
+* Documentary Style
 
-## Role
+⸻
 
-Secondary Distribution Channel
+Avoid
 
----
+* Obvious AI Aesthetics
+* Unrealistic Scenes
+* Over-Polished Results
+* Stock Image Appearance
+* Artificial Visual Effects
 
-## Primary Purpose
+⸻
 
-- Awareness
-- Education
-- Thought Leadership
+No-Go List
 
----
+Visual No-Gos
 
-## Preferred Formats
+* Hacker With Hoodie
+* Glowing Clouds
+* Generic Cybersecurity Graphics
+* Stock Photography
+* Corporate Hero Shots
+* Crossed Arms Portraits
+* Generic AI Art
+* Influencer Photography
+* Creator-Style Imagery
 
-### YouTube Shorts
+⸻
 
-Highest Priority
+Messaging No-Gos
 
----
+* Clickbait
+* Fear Marketing
+* Sensational Headlines
+* Unrealistic Promises
+* Artificial Urgency
+* Hype Marketing
 
-### Long Form Videos
+⸻
 
-Selective Use
+Language No-Gos
 
----
+* Market Leader
+* Best Solution
+* Revolutionary
+* Game Changer
+* Disruptive Innovation
+* Next Generation Platform
 
-## Content Sources
+⸻
 
-- Expert Q&A Videos
-- Webinar Snippets
-- Event Recordings
-- Thought Leadership Content
-- Educational Content
-
----
-
-## Multi-Channel Distribution
-
-Content should be reusable across:
-
-- LinkedIn
-- YouTube
-- Website
-- Email
-- Webinars
-- Sales
-
----
-
-# CTA Philosophy
-
-## Awareness
-
-Preferred CTAs:
-
-- Mehr erfahren
-- Perspektive ansehen
-- Einschätzung lesen
-- Framework ansehen
-
----
-
-## Consideration
-
-Preferred CTAs:
-
-- Case Study ansehen
-- Webinar ansehen
-- Assessment verstehen
-- Lösungsansatz ansehen
-
----
-
-## Decision
-
-Preferred CTAs:
-
-- Assessment anfragen
-- Mit einem Experten sprechen
-- Erstgespräch vereinbaren
-
----
-
-## Guiding Principle
-
-Curiosity before Conversion.
-
----
-
-# No-Go List
-
-The AI should never create:
-
----
-
-## Visual No-Gos
-
-- Hacker With Hoodie
-- Glowing Clouds
-- Generic Cybersecurity Graphics
-- Stock Photography
-- Corporate Hero Shots
-- Crossed Arms Portraits
-- Generic AI Art
-
----
-
-## Messaging No-Gos
-
-- Clickbait
-- Fear Marketing
-- Sensational Headlines
-- Unrealistic Promises
-- Artificial Urgency
-- Hype Marketing
-
----
-
-## Language No-Gos
-
-- Market Leader
-- Best Solution
-- Revolutionary
-- Game Changer
-- Disruptive Innovation
-- Next Generation Platform
-
----
-
-# Channel Priority
-
-## Primary Channel
-
-LinkedIn
-
----
-
-## Secondary Channels
-
-- YouTube
-- Website
-- Email
-- Webinar
-- Sales Enablement
-
----
-
-# Quality Checklist
+Quality Checklist
 
 Before finalizing any creative, validate:
 
-### Is the insight relevant?
+Is the insight relevant?
 
-### Is the message clear?
+Is the message clear?
 
-### Does it feel authentic?
+Is the content authentic?
 
-### Is it educational?
+Is the perspective grounded in expertise?
 
-### Is it easy to understand?
+Does it align with the business challenge?
 
-### Is it appropriate for LinkedIn?
+Is it easy to understand?
 
-### Could it be reused across channels?
+Could it be reused across channels?
 
-### Does it avoid the No-Go List?
+Does it follow the visual guidelines?
 
----
+Does it avoid the No-Go List?
 
-# Final Principle
+If Alex is used, does it feel editorial rather than promotional?
+
+⸻
+
+Final Principle
 
 The best CONVOTIS creative is not the most beautiful.
 
-The best CONVOTIS creative is the one that makes the right audience stop scrolling and think:
-
-"This is relevant for me."
+The best CONVOTIS creative helps the right audience understand a relevant business reality, gain a useful insight and take the next logical step.
