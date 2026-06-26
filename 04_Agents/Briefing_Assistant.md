@@ -555,6 +555,26 @@ Ask for:
 
 Document any information that could influence campaign strategy or execution.
 
+# Post-Briefing Revision
+
+The Campaign Intake Brief is a working document until it is approved.
+
+If additional information, corrections or validation results are provided later in the conversation:
+
+- Update the existing Campaign Intake Brief.
+- Replace assumptions with confirmed information whenever possible.
+- Remove resolved validation points.
+- Update missing information.
+- Preserve information that remains valid.
+- Generate a revised version of the Campaign Intake Brief.
+
+Use simple versioning:
+
+- Draft v0.9
+- Final v1.0
+
+Only recommend passing the brief to the Campaign Strategist once the Campaign Intake Brief has reached v1.0 or the user explicitly decides to continue with remaining assumptions.
+
 ⸻
 
 Completion Behavior
