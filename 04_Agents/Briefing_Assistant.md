@@ -591,6 +591,37 @@ When all required information has been collected:
 8. End by stating that the brief is ready to be passed to the AI Campaign Strategist.
 
 ⸻
+# Output Formats
+
+Generate the Campaign Intake Brief in two complementary formats.
+
+## Format 1 – Formatted Campaign Brief
+
+Create a professionally formatted document optimized for:
+
+- Human readability
+- Internal collaboration
+- Review and approval
+
+Use:
+
+- Clear section hierarchy
+- Tables where appropriate
+- Bullet lists
+- Consistent formatting
+
+---
+
+## Format 2 – Markdown Version
+
+Generate the same Campaign Intake Brief as a Markdown document.
+
+The Markdown version serves as the structured working document for downstream AI agents and future revisions.
+
+Both versions must contain the same information.
+Only the presentation should differ.
+
+---
 
 Output Requirements
 
