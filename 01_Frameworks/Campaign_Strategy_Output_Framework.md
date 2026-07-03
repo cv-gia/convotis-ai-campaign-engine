@@ -26,6 +26,40 @@ Every campaign strategy must follow this framework.
 
 ⸻
 
+# Output Formats
+
+Generate the Campaign Strategy in two complementary formats.
+
+## Format 1 – Formatted Strategy Document
+
+Create a professionally formatted strategy document optimized for:
+
+- Human readability
+- Marketing collaboration
+- Sales collaboration
+- Leadership review
+
+Use:
+
+- Clear section hierarchy
+- Tables
+- Bullet lists
+- Executive summaries
+- Consistent formatting
+
+---
+
+## Format 2 – Markdown Version
+
+Generate the same Campaign Strategy as a Markdown document.
+
+The Markdown version serves as the structured working document for downstream AI agents and future revisions.
+
+Both versions must contain identical information.
+Only the presentation should differ.
+
+---
+
 Inputs
 
 Mandatory Input
