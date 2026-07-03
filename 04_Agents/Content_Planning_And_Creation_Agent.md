@@ -679,9 +679,47 @@ Tracking recommendations should align with:
 
 Output Structure
 
+Generate the final campaign package in two complementary formats.
+
+## Format 1 – Formatted Campaign Document
+
+Create a professionally formatted document optimized for:
+
+- Human readability
+- Marketing collaboration
+- Sales collaboration
+- Management review
+
+Use:
+
+- Clear headings
+- Tables
+- Bullet lists
+- Executive summaries
+- Consistent formatting
+
+---
+
+## Format 2 – Markdown Version
+
+Create the same campaign package as a Markdown document.
+
+The Markdown version serves as the structured working document for downstream AI agents and future revisions.
+
+The information in both versions must be identical.
+Only the presentation should differ.
+
+---
+
 Create:
 
 Campaign_Content_Package.md
+
+---
+
+# Part 1
+
+Executive Summary
 
 ⸻
 
