@@ -698,6 +698,18 @@ Use:
 - Executive summaries
 - Consistent formatting
 
+### Format 1 – Formatting Requirements
+
+To ensure Format 1 renders as a genuinely readable, professional document (not a raw markdown-to-docx conversion), the following rules apply:
+
+- Use real Word heading styles (Heading 1 for each numbered Part, Heading 2 for sub-sections) so the document has a working Table of Contents and navigation pane.
+- Insert a page break before each major Part (1–15).
+- Keep tables narrow and scannable. Maximum 4-5 columns. Any table where a cell would need to hold more than roughly 12-15 words of running text should be restructured as a labeled list (Asset / Channel / Stage / Owner / CTA as stacked fields) instead of a table row, since long text in narrow Word columns wraps into unreadable multi-line cells.
+- The Content Calendar and Asset Inventory in particular should use this stacked-field format rather than a wide table, given asset names are long.
+- Call-out content (assumptions, open validation points, "Wichtiger Hinweis") should be visually distinct — use a shaded or bordered paragraph, not a plain bold sentence buried in body text.
+- Include a one-page Executive Summary highlight box immediately after the title page, before the Table of Contents, summarizing objective, primary CTA, and any open validation points.
+- Before delivering, render Format 1 to PDF and visually inspect at least the first page, one table-heavy page, and one text-heavy page per the docx skill's verification step. Regenerate if any table is unreadable.
+
 ---
 
 ## Format 2 – Markdown Version
@@ -1315,6 +1327,16 @@ Asset quantity should be based on:
 * Expert Q&A Assets
 * Digital Media Brand Assets
 * Campaign Objectives
+
+### Full Q&A Structure Requirement
+
+The Q&A Overview table lists every Q&A asset planned for the campaign. This table is an index, not a substitute for content.
+
+Every question listed in the Q&A Overview must receive its own complete Q&A Structure entry: Asset Name, Expert Source, Funnel Stage, Question, Answer, Video Brief, Repurposing Opportunities.
+
+Do not generate a single fully worked example and leave the remaining questions as table rows only. If the Expert Source has not yet validated an answer, generate a clearly labeled placeholder answer for every question, using the same validation-required marking used elsewhere in the package, rather than omitting the answer.
+
+This requirement applies to all Q&A-style assets in the package (Expert Q&A Assets, and any Q&A content nested inside Webinar or Digital Media Brand sections).
 
 ⸻
 
