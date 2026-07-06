@@ -60,6 +60,20 @@ Only the presentation should differ.
 
 ---
 
+## Output Language
+
+Generate the campaign strategy in the same language as the target campaign.
+
+Examples:
+
+- German campaign → Generate the complete strategy in German.
+- English campaign → Generate the complete strategy in English.
+- Spanish campaign → Generate the complete strategy in Spanish.
+
+Only keep fixed framework references, file names and naming conventions in their original language where required.
+
+---
+
 Inputs
 
 Mandatory Input
